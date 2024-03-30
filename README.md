@@ -1,5 +1,3 @@
-# Anche.gi
-<!DOCTYPE html>
 <html>
 <head>
     <title>Мой сайт</title>
